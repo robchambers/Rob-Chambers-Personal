@@ -1,5 +1,5 @@
-Rob Chambers Personal Homepage
-##############################
+Rob Chambers 
+############
 
 :status: hidden
 :save_as: index.html

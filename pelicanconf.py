@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'Rob Chambers'
-SITENAME = u'Rob Chambers'
+SITENAME = u'Rob Chambers Personal Homepage'
 SITEURL = ''
 
 TIMEZONE = 'America/New_York'
@@ -22,8 +22,10 @@ TRANSLATION_FEED_ATOM = None
 #           ('You can modify those links in your config file', '#'),)
 
 # Social widget
-# SOCIAL = (('You can add links in your config file', '#'),
-#           ('Another social link', '#'),)
+SOCIAL = (('Github', 'https://github.com/robchambers'),
+          ('LinkedIn', 'http://www.linkedin.com/pub/rob-chambers/3/70b/a23'),
+          ('Facebook', 'https://www.facebook.com/rob.chambers.1422')
+          )
 
 DEFAULT_PAGINATION = 10
 
@@ -31,3 +33,6 @@ DEFAULT_PAGINATION = 10
 # RELATIVE_URLS = True
 
 STATIC_PATHS = ['images', 'static', 'pubs']
+
+GITHUB_USERNAME = u'robchambers'
+GITHUB_BADGE = True
