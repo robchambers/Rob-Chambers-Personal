@@ -39,7 +39,7 @@ STATIC_PATHS = ['images', 'static', 'pubs']
 
 GITHUB_USERNAME = u'robchambers'
 GITHUB_BADGE = True
-GITHUB_URL = 'https://github.com/robchambers'
+GITHUB_URL = 'https://github.com/robchambers/Rob-Chambers-Personal'
 
 # Domain name
 FILES_TO_COPY = (('CNAME', 'CNAME'),)
