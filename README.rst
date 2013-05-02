@@ -9,6 +9,7 @@ Set up:
 Git checkout Rob-Chambers-Personal repo.
 
 Install packages:::
+
 	pip install pelican ghp-import
 
 In repo directory:
