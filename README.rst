@@ -3,6 +3,8 @@ Personal webpage repo
 
 Built using Pelican.
 
+`http://rdchambers.net <http://rdchambers.net>`_
+
 Set up:
 -------
 
