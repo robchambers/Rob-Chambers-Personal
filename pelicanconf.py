@@ -16,7 +16,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS = ( ('Blog', 'http://blog.rdchambers.net'),
+LINKS = (('Blog', 'http://blog.rdchambers.net'),
           ('Photos', 'http://photos.rdchambers.net'),
           ('Creare, Inc.', 'http://www.creare.com/'),
           ('Planet Python', 'http://planet.python.org/'),
@@ -45,3 +45,5 @@ GITHUB_URL = 'https://github.com/robchambers'
 FILES_TO_COPY = (('CNAME', 'CNAME'),)
 
 THEME = "theme"
+
+PIC_PATH = "static/images/with_fozzie.jpg"
