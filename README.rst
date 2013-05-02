@@ -14,16 +14,16 @@ Install packages:::
 
 In repo directory:
 	
-	* To develop:::
-		
-		make devserver
-		# Visit http://localhost:8000
-		# And when you're done: 
-		./develop_server.sh stop
-		
-	* To publish, commit/push changes, then:::
+* To develop:::
 	
-		make github
+	make devserver
+	# Visit http://localhost:8000
+	# And when you're done: 
+	./develop_server.sh stop
+	
+* To publish, commit/push changes, then:::
+
+	make github
 		
 
 	
