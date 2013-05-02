@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Rob Chambers'
+AUTHOR = u'Robert D. Chambers'
 SITENAME = u'Rob Chambers Personal Homepage'
 SITEURL = ''
 
@@ -16,10 +16,13 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-# LINKS = (('Pelican', 'http://getpelican.com/'),
-#           ('Python.org', 'http://python.org/'),
-#           ('Jinja2', 'http://jinja.pocoo.org/'),
-#           ('You can modify those links in your config file', '#'),)
+LINKS = ( ('Blog', 'http://blog.rdchambers.net'),
+          ('Photos', 'http://photos.rdchambers.net'),
+          ('Creare, Inc.', 'http://www.creare.com/'),
+          ('Planet Python', 'http://planet.python.org/'),
+          ('Stanford Microfluidics', 'http://microfluidics.stanford.edu'),
+          ('Harvey Mudd College', 'http://www.hmc.edu'),
+          )
 
 # Social widget
 SOCIAL = (('Github', 'https://github.com/robchambers'),
@@ -36,6 +39,9 @@ STATIC_PATHS = ['images', 'static', 'pubs']
 
 GITHUB_USERNAME = u'robchambers'
 GITHUB_BADGE = True
+GITHUB_URL = 'https://github.com/robchambers'
 
 # Domain name
 FILES_TO_COPY = (('CNAME', 'CNAME'),)
+
+THEME = "theme"

@@ -1,5 +1,5 @@
-Rob Chambers 
-############
+Welcome
+#######
 
 :status: hidden
 :save_as: index.html
@@ -10,14 +10,19 @@ This is my personal web page. If you need a quick overview of who I am,
 where my interests lie, what my qualifications are, or how to get in 
 touch with me, you've come to the right place.
 
-If you're interested, check out my `blog <http://blog.rdchambers.net>`_ or `photos <http://photos.rdchambers.net>`_.
+I am an engineer living in Lebanon, NH and working at Creare, Inc. My Background
+is in mechanical engineering and microfluidics, but I currently work in a number
+of fields and do a lot of Python programming.
+
+If you're interested, check out my `blog <http://blog.rdchambers.net>`_ or 
+`photos <http://photos.rdchambers.net>`_.
 
 In particular, if you have a question or comment on any 
 of my work (published articles or `papers and projects <|filename|papers-and-projects.rst>`_) 
 please feel free to `contact <|filename|contact.rst>`_ me.
 
-CV/Resume
----------
+CV/Resume (Robert D. Chambers)
+------------------------------
 
 Note: This resume often falls out-of-date. For accurate contact info, please refer to this web page. 
 For an up-to-date resume, feel free to email me.
