@@ -29,7 +29,7 @@ For an up-to-date resume, feel free to email me.
 
 .. raw:: html
 
-	<div><div id="772415866368812657" align="center" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><iframe src="https://docs.google.com/document/d/16Kg_vptFEYfYzXUunHrO8J7vOopmImr8X4yX3MFblAM/pub?embedded=true" width="90%" frameborder="1" height="550" style="border: 2px inset"></iframe></div>
+	<!--<div><div id="772415866368812657" align="center" style="width: 100%; overflow-y: hidden;" class="wcustomhtml">--><iframe src="https://docs.google.com/document/d/16Kg_vptFEYfYzXUunHrO8J7vOopmImr8X4yX3MFblAM/pub?embedded=true" width="90%" frameborder="1" height="550" style="border: 2px inset"></iframe><!--</div>-->
 
 
 Publication Links
